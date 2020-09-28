@@ -50,8 +50,8 @@ if q4_ans == 'A' or q4_ans == 'a':
         print('A. Lamborghini Centenario LP 770-4')
         print('B. Mercedes-Benz C 63 AMG Coupé Black Series')
         print('C. Nissan Skyline GT-R V-Spec II')
-        q4.1_ans = input('Jouw antwoord:')
-        if q4.1_ans == 'B' or q4.1_ans == 'b':
+        q5_ans = input('Jouw antwoord:')
+        if q5_ans == 'B' or q5_ans == 'b':
                 print('Correct')
         else:
                 print('Incorrect')
@@ -65,8 +65,8 @@ elif q4_ans == 'B' or q4_ans == 'b':
         print('D. Dominus')
         print('E. Breakout')
         print('F. Batmobile')
-        q4.2_ans = input('Jouw antwoord:')
-        if q4.2_ans == 'D' or q4.2_ans == 'd':
+        q6_ans = input('Jouw antwoord:')
+        if q6_ans == 'D' or q6_ans == 'd':
                 print('Correct')
         else:
                 print('Incorrect')
